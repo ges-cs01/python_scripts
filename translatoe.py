@@ -17,7 +17,6 @@ out_file = open("translatoe.csv", "w")
 writer = csv.writer(out_file)
 
 for key, value in d1.items():
-
-    writer.writerow([key, value])
+    	writer.writerow([key, value])
 
 out_file.close()
