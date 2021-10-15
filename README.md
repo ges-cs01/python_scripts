@@ -19,6 +19,6 @@ Usage:
 
     python3 translatoe.py file.txt
 
-This will generate a translatoe.csv that can be later load to Google Sheets and be used as it follows:
+This will generate a translatoe.csv. Very useful to load it in Google Sheets and use it as follows:
 
 [![link to youtube video on how to translate multiple words with google sheets.](http://img.youtube.com/vi/AoHqkGm2G0U/0.jpg)](http://www.youtube.com/watch?v=AoHqkGm2G0U "How to translate multiple words with Google Sheets")
